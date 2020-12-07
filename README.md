@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Github Stats
+
+[![Anastasia GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anastasia-Nayita&show_icons=true&count_private=true)](https://github.com/Anastasia-Nayita)
+
+
+
 <!--
 **Anastasia-Nayita/Anastasia-Nayita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
