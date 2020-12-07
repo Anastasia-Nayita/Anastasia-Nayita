@@ -4,7 +4,9 @@
 
 [![Anastasia GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anastasia-Nayita&show_icons=true&count_private=true)](https://github.com/Anastasia-Nayita)
 
-
+<a href="https://github.com/Anastasia-Nayita/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-Nayita&layout=compact" />
+</a>
 
 <!--
 **Anastasia-Nayita/Anastasia-Nayita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
