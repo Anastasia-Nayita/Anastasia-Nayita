@@ -2,7 +2,7 @@
 
 ### Github Stats
 
-[![Anastasia GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anastasia-Nayita&show_icons=true&count_private=true)](https://github.com/Anastasia-Nayita)
+[![Anastasia GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anastasia-Nayita&show_icons=true&count_private=true&hide_border=true)](https://github.com/Anastasia-Nayita)
 
 <a href="https://github.com/Anastasia-Nayita/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-Nayita&layout=compact&show_icons=true&hide_border=true" />
