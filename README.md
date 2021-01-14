@@ -1,13 +1,18 @@
 ### Hi there 👋
 
-<code>
-    <img width="55%" align="right" alt="Anastasia-Nayita's github stats" src="https://github-readme-stats.vercel.app/api?username=Anastasia-Nayita&show_icons=true&hide_border=true" />
-</code>
-<code>
-    <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-Nayita&layout=compact&show_icons=true&hide_border=true" />
- </code>
-  
-**Languages and tools:**
+- 🌱 I’m currently learning AWS and Kotlin
+- 📖 I'm reading at the moment "Clean Code" by Robert C. Martin
+- 👯 I’m looking to collaborate on [breath.project](https://github.com/Anastasia-Nayita/breath.project.git) 🤝
+
+<!--- - 🔭 I’m currently working on ... 
+ -  I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- ⚡ Fun fact: ... 
+---!>
+
+<code> <img width="55%" align="right" alt="Anastasia-Nayita's github stats" src="https://github-readme-stats.vercel.app/api?username=Anastasia-Nayita&show_icons=true&hide_border=true" /> </code>
+<code> <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-Nayita&layout=compact&show_icons=true&hide_border=true" /> </code>
+**Languages and Tools:**
 
  <p>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -26,18 +31,3 @@
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
 </p>
-
-<!--
-**Anastasia-Nayita/Anastasia-Nayita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
