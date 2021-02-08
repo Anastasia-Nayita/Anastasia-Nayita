@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning AWS and Kotlin
 - 📖 I'm reading at the moment "Clean Code" by Robert C. Martin
-- 👯 I’m looking to collaborate on [breath.project](https://github.com/Anastasia-Nayita/breath.project.git) 🤝
 
 <img width="55%" align="right" alt="Anastasia-Nayita's github stats" src="https://github-readme-stats.vercel.app/api?username=Anastasia-Nayita&show_icons=true&hide_border=true" /> 
 <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia-Nayita&layout=compact&show_icons=true&hide_border=true" /> 
