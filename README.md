@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning AWS and Kotlin
+- 🌱 I’m currently learning Flutter
 - 📖 I'm reading at the moment "Clean Code" by Robert C. Martin
 
 <img width="55%" align="right" alt="Anastasia-Nayita's github stats" src="https://github-readme-stats.vercel.app/api?username=Anastasia-Nayita&show_icons=true&hide_border=true" /> 
